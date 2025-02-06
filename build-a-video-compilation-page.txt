@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Compilation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+        }
+        main {
+            width: 80%;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        section {
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <h1>Awesome Video Compilation</h1>
+        <p>Welcome to this video compilation page! Here are some interesting videos for you to enjoy.</p>
+
+        <section>
+            <h2>Technology Advancements</h2>
+            <p>Explore how technology is shaping our future.</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID1" title="Technology Advancements" frameborder="0" allowfullscreen></iframe>
+        </section>
+
+        <section>
+            <h2>Space Exploration</h2>
+            <p>Discover the wonders of space and the universe.</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID2" title="Space Exploration" frameborder="0" allowfullscreen></iframe>
+        </section>
+
+        <section>
+            <h2>Wildlife Documentary</h2>
+            <p>Learn about the beauty of wildlife in nature.</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID3" title="Wildlife Documentary" frameborder="0" allowfullscreen></iframe>
+        </section>
+    </main>
+</body>
+</html>
